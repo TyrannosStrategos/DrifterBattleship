@@ -1,1 +1,1 @@
-Drifter Battleship for X4 no weapons yet
+Drifter Battleship ARGO for X4 foundations.no weapons yet
